@@ -1,0 +1,2 @@
+select * from city_data where city = 'Vilnius'
+select * from global_data;
